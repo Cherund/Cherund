@@ -14,6 +14,11 @@ I am  a python backend developer with experience in Flask and Django for creatin
 - Git, GitHub
 - Pep8, flake8, poetry
 - pytest
+  
+### Language skills
+- English - C1
+- Spanish - B1
+- Russian - native
 
 ### How to reach me
 
