@@ -1,8 +1,7 @@
 ## Hello there 👋
 
 I am Egor.
-I am  a python backend developer with experience in Flask and Django for creating web applications and APIs. 
-
+I am a python backend developer with experience in Django and Flask for creating web applications and APIs. Skilled in working with PostgreSQL and Docker for containerization. I am a quick learner, highly organized, and motivated to apply my skills to tackle complex challenges. I am excited to join your team and grow alongside it.
 ### My skills
 
 - Python 3.x
