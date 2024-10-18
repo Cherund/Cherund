@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**Cherund/Cherund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Egor.
+I am  a python backend developer with experience in Flask and Django for creating web applications and APIs. 
 
-Here are some ideas to get you started:
+### My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 3.x
+- HTML, CSS
+- Django, Flask
+- PostgreSQL
+- Docker
+- Bootstrap
+- Git, GitHub
+- Pep8, flake8, poetry
+- pytest
+
+### How to reach me
+
+<a href="https://www.linkedin.com/in/cherund/">
+  <img width="32px" height="32px" src="https://user-images.githubusercontent.com/1062217/156883182-04f70b8b-44b4-493b-8ba0-dae93b310a40.png" alt="LinkedIn" />
+</a>
