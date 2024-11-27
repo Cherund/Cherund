@@ -6,14 +6,14 @@ I am a python backend developer with experience in Django and Flask for creating
 ### My skills
 
 - Python 3.x
-- HTML, CSS
 - Django, Flask
 - PostgreSQL
 - Docker
-- Bootstrap
 - Git, GitHub
 - Pep8, flake8, poetry
 - pytest
+- HTML, CSS
+- Bootstrap
   
 ### Language skills
 - English - C1
