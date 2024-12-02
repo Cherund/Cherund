@@ -26,6 +26,7 @@ I am a python backend developer with experience in Django and Flask for creating
   <img width="32px" height="32px" src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram" />
 </a>
 
+
 <a href="https://www.linkedin.com/in/cherund/">
   <img width="32px" height="32px" src="https://user-images.githubusercontent.com/1062217/156883182-04f70b8b-44b4-493b-8ba0-dae93b310a40.png" alt="LinkedIn" />
 </a>
