@@ -25,3 +25,6 @@ I am a python backend developer with experience in Django and Flask for creating
 <a href="https://www.linkedin.com/in/cherund/">
   <img width="32px" height="32px" src="https://user-images.githubusercontent.com/1062217/156883182-04f70b8b-44b4-493b-8ba0-dae93b310a40.png" alt="LinkedIn" />
 </a>
+<a href="https://t.me/Cherund">
+  <img width="32px" height="32px" src="https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="Telegram" />
+</a>
